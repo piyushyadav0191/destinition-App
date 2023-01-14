@@ -1,0 +1,6 @@
+export { default as HeroImage } from "./travel.png"
+export { default as Avatar } from "./avatar.png"
+export { default as RestaurentIcon } from "./rest.png"
+export { default as Tour } from "./tourr.png"
+export { default as Hotel } from "./hotel.png"
+export { default as Sad } from "./sad.png"
